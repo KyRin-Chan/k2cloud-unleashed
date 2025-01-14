@@ -6,7 +6,6 @@ export const preview = {
   text: 'text',
   pdf: 'pdf',
   code: 'code',
-  video: 'video',
   audio: 'audio',
   office: 'ms-office',
   epub: 'epub',
