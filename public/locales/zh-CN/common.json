@@ -2,7 +2,7 @@
   "- showing {{count}} page(s) ——other": "现在显示着 {{count}} 页哦～",
   "{{count}} item(s)——other": "有 {{count}} 个项目啦！",
   "<0></0> If you are not the owner of this website, stop now, as continuing with this process may expose your personal files in OneDrive.": "<0></0> 如果你不是这个网站的主人，就快点停下啦！继续的话可能会暴露你在 OneDrive 里的秘密哦～",
-  "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.": "<0></0> 如果你还没在 Vercel 的环境变量里设置 REDIS_URL 的话，可以去 <3>Upstash</3> 那边初始化一个哦！文档在这里啦：<6>Vercel 集成 - Upstash</6>。",
+  "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.": "<0></0> 如果你还没在 Vercel 的环境变量里设置 REDIS_URL 的话，可以去 <3>Upstash</3> 那边初始化一个哦！文档在这里啦：<6>Vercel 集成 Upstash</6>。",
   "<0></0> If you see anything missing or incorrect, you need to reconfigure <3>/config/api.config.js</3> and redeploy this instance.": "<0></0> 如果你看到有什么不对的地方，要重新编辑 <3>/config/api.config.js</3> 然后重新部署一下哦～",
   "✅ You can now proceed onto the next step: requesting your access token and refresh token.": "✅ 接下来就可以去获取 access token 和 refresh token 啦！",
   "❌ No valid code extracted.": "❌ 哎呀！没有提取到有效的授权码呢～",
